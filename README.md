@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **mohitjgujjar7@gmail.com**
 
-- 📄 Know about my experiences [📄 Beginner in AI and cybersecurity, driven by curiosity and a mission to grow every day.](📄 Beginner in AI and cybersecurity, driven by curiosity and a mission to grow every day.)
-
 - ⚡ Fun fact **I turn caffeine into code — and code into defense**
 
 <h3 align="left">Connect with me:</h3>
